@@ -1,0 +1,15 @@
+controlador\EditarLibrosControl.class
+modelo\Editorial.class
+com\mycompany\javaservlet4\resources\JakartaEE10Resource.class
+controlador\ControlListarLibros.class
+controlador\CategoriaControl.class
+modelo\Categoria.class
+modelo\Libros.class
+com\mycompany\javaservlet4\JakartaRestConfiguration.class
+dao\LibroDao.class
+controlador\EliminarLibrosControl.class
+dao\Conexion.class
+controlador\EditorialControl.class
+controlador\LibrosControl.class
+dao\CategoriaDao.class
+dao\EditorialDao.class
